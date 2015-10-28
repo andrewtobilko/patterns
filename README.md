@@ -7,3 +7,4 @@ You might find out about all of them here, in this repository.
 * Structural
 * Behavioral
     * [Template method](https://github.com/andrewtobilko/patterns/tree/master/src/com/tobilko/templatemethod/ "Template method")
+    * [Iterator](https://github.com/andrewtobilko/patterns/tree/master/src/com/tobilko/iterator/ "Iterator")
