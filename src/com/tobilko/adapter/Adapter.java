@@ -12,4 +12,5 @@ public class Adapter implements Client {
     public void method() {
         adaptee.method();
     }
+
 }
