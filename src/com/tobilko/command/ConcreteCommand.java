@@ -21,6 +21,8 @@ public class ConcreteCommand implements Command {
      *  Method that implements a basic command logic.
      */
     @Override
-    public void execute() {}
+    public void execute() {
+        receiver.method();
+    }
 
 }
