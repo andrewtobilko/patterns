@@ -16,6 +16,9 @@ You could find out about all of them here, in this repository.
     * [Decorator](https://github.com/andrewtobilko/patterns/tree/master/src/com/tobilko/decorator/ "Decorator")
 * Behavioral
     * [Template method](https://github.com/andrewtobilko/patterns/tree/master/src/com/tobilko/templatemethod/ "Template method")
+    
+    ![Template method](http://i.stack.imgur.com/Z7TIe.png)
+    
     * [Iterator](https://github.com/andrewtobilko/patterns/tree/master/src/com/tobilko/iterator/ "Iterator")
     * [Command](https://github.com/andrewtobilko/patterns/tree/master/src/com/tobilko/command/ "Command")
 
