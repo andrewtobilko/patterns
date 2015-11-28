@@ -1,4 +1,4 @@
-There are three kinds of Design Patterns. Also they are well-known as GoF Patterns.
+There are three kinds of software design patterns (well-known as GoF patterns).
 
 You could find out about all of them here, in this repository.
 

@@ -14,9 +14,9 @@ public abstract class AbstractClass {
      * Describes an algorithms fully.
      */
     public final void templateMethod() {
-        beforeExecutingAlgorithm();
+        beforeExecutingOfAlgorithm();
         executeAlgorithm();
-        afterExecutingAlgorithm();
+        afterExecutingOfAlgorithm();
     }
 
     /**
@@ -28,11 +28,11 @@ public abstract class AbstractClass {
     /**
      *  The part of algorithm that executes <b>before</b> the main section.
      */
-    protected abstract void beforeExecutingAlgorithm();
+    protected abstract void beforeExecutingOfAlgorithm();
 
     /**
      *  The part of algorithm that executes <b>after</b> the main section.
      */
-    protected abstract void afterExecutingAlgorithm();
+    protected abstract void afterExecutingOfAlgorithm();
 
 }

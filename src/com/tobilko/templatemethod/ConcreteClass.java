@@ -15,12 +15,12 @@ public class ConcreteClass extends AbstractClass {
      *  Implementation of "before-part" of algorithm.
      */
     @Override
-    protected void beforeExecutingAlgorithm() {}
+    protected void beforeExecutingOfAlgorithm() {}
 
     /**
      *  Implementation of "after-part" of algorithm.
      */
     @Override
-    protected void afterExecutingAlgorithm() {}
+    protected void afterExecutingOfAlgorithm() {}
 
 }
