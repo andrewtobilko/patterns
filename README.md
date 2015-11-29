@@ -8,8 +8,14 @@ You could find out about all of them here, in this repository.
     
      ![Simple Factory](http://i.stack.imgur.com/OX1Pb.png)
      
-     * [Abstract Factory](https://github.com/andrewtobilko/patterns/tree/master/src/com/tobilko/abstractfactory/ "Abstract Factory") *(soon)*
-     * [Factory Method](https://github.com/andrewtobilko/patterns/tree/master/src/com/tobilko/factorymethod/ "Factory Method") *(soon)*
+     * [Factory Method](https://github.com/andrewtobilko/patterns/tree/master/src/com/tobilko/factorymethod/ "Factory Method")
+     
+     ![Factory Method](http://i.stack.imgur.com/Oo8zs.png)
+     
+     * [Abstract Factory](https://github.com/andrewtobilko/patterns/tree/master/src/com/tobilko/abstractfactory/ "Abstract Factory")
+     
+     ![Abstract Factory](http://i.stack.imgur.com/Oo8zs.png) // add an image
+     
 * Structural
     * [Adapter](https://github.com/andrewtobilko/patterns/tree/master/src/com/tobilko/adapter/ "Adapter")
     * [Facade](https://github.com/andrewtobilko/patterns/tree/master/src/com/tobilko/facade/ "Facade")
