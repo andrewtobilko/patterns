@@ -1,5 +1,8 @@
 package com.tobilko.observer;
 
+/**
+ *
+ */
 public interface Observer {
-    void update(Observable observable);
+    <T> void update(Observable observable, T data);
 }

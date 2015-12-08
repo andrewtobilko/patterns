@@ -31,6 +31,9 @@ You could find out about all of them here, in this repository.
     
     * [Command](https://github.com/andrewtobilko/patterns/tree/master/src/com/tobilko/command/ "Command")
     * [State](https://github.com/andrewtobilko/patterns/tree/master/src/com/tobilko/state/ "State") *(soon)*
+    * [Observer](https://github.com/andrewtobilko/patterns/tree/master/src/com/tobilko/observer/ "Observer")
+    
+    ![Observer](http://i.stack.imgur.com/HDkSG.png)
 
 
 *The patterns marked by * don't relate to GoF patterns. They are simply a part of good practice of software development.*

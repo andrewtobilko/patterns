@@ -9,5 +9,7 @@ public class Client {
 
         observable.setChanged();
         observable.notifyAllObservers();
+
+        observable.removeObserver(observer);
     }
 }
