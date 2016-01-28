@@ -1,4 +1,4 @@
-package com.tobilko.factorymethod;
+package com.github.tobilko.creational.factorymethod;
 
 /**
  * It will be a result which factory method returns.

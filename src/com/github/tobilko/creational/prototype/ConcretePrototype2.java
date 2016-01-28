@@ -1,8 +1,10 @@
 package com.github.tobilko.creational.prototype;
 
-public class SecondConcretePrototype extends Prototype {
+public class ConcretePrototype2 extends Prototype {
+
     @Override
     public Prototype duplicate() throws CloneNotSupportedException {
-        return (Prototype) super.clone();
+        return (ConcretePrototype2) this.clone();
     }
+
 }

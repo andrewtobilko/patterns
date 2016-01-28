@@ -1,4 +1,4 @@
-package com.tobilko.factorymethod;
+package com.github.tobilko.creational.factorymethod;
 
 /**
  *  Delegates {@code Element} creation to subclasses

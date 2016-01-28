@@ -1,4 +1,4 @@
-package com.tobilko.factorymethod;
+package com.github.tobilko.creational.factorymethod;
 
 /**
  *  An example of concrete element. It'll use as a return value

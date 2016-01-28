@@ -1,4 +1,4 @@
-package com.tobilko.singleton;
+package com.github.tobilko.creational.singleton;
 
 public class EagerlyInitializedSingletonByMethod {
     private static final EagerlyInitializedSingletonByMethod INSTANCE =

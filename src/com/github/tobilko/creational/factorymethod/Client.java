@@ -1,4 +1,4 @@
-package com.tobilko.factorymethod;
+package com.github.tobilko.creational.factorymethod;
 
 /**
  *  Provides method that shows a working of "factory method" pattern.

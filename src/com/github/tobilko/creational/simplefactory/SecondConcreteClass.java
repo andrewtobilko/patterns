@@ -1,4 +1,4 @@
-package com.tobilko.simplefactory;
+package com.github.tobilko.creational.simplefactory;
 
 /**
  *  The second class-example for {@code SimpleFactory}.

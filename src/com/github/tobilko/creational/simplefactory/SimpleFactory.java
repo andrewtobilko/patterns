@@ -1,4 +1,4 @@
-package com.tobilko.simplefactory;
+package com.github.tobilko.creational.simplefactory;
 
 /**
  *  Realizes a <b>Simple Factory</b> pattern.

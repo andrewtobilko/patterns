@@ -1,4 +1,4 @@
-package com.tobilko.abstractfactory;
+package com.github.tobilko.creational.abstractfactory;
 
 /**
  * Describes "abstract factory" pattern.

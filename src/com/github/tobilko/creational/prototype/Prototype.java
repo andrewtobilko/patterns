@@ -1,4 +1,7 @@
 package com.github.tobilko.creational.prototype;
 
-public interface Prototype {
+public abstract class Prototype implements Cloneable {
+
+    public abstract Prototype duplicate() throws CloneNotSupportedException;
+
 }

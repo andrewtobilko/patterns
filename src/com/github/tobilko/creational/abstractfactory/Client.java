@@ -1,4 +1,4 @@
-package com.tobilko.abstractfactory;
+package com.github.tobilko.creational.abstractfactory;
 
 /**
  *  Shows how to work the abstract factory pattern and

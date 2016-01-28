@@ -1,4 +1,4 @@
-package com.tobilko.factorymethod;
+package com.github.tobilko.creational.factorymethod;
 
 /**
  *  Describes an implementation of a factory method.

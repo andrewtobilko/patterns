@@ -1,4 +1,4 @@
-package com.tobilko.simplefactory;
+package com.github.tobilko.creational.simplefactory;
 
 /**
  * Provides {@code Client} that shows how to work {@code SimpleFactory}.

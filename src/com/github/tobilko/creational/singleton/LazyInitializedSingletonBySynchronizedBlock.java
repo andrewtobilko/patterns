@@ -1,4 +1,4 @@
-package com.tobilko.singleton;
+package com.github.tobilko.creational.singleton;
 
 public class LazyInitializedSingletonBySynchronizedBlock {
 
