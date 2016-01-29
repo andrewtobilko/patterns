@@ -16,11 +16,14 @@ You could find out about all of them here, in this repository.
 * Structural
 
     * [Adapter](https://github.com/andrewtobilko/patterns/tree/master/src/com/github/tobilko/structural/adapter/
-                "Adapter") - <the description>
+                "Adapter") - еo allow adapting different interfaces to each other without modifying their source code
     * [Facade](https://github.com/andrewtobilko/patterns/tree/master/src/com/github/tobilko/structural/facade/
-               "Facade") - <the description>
+               "Facade") - to provide a simpler interface to interact with another interface or subsystem
     * [Decorator](https://github.com/andrewtobilko/patterns/tree/master/src/com/github/tobilko/structural/decorator/
-                  "Decorator") - <the description>
+                  "Decorator") - to expand interface functionality dynamically
+    * [Composite](https://github.com/andrewtobilko/patterns/tree/master/src/com/github/tobilko/structural/composite/
+                       "Decorator") - to allow presenting a group of an object as a single object without a difference of usage
+                  
                   
 * Behavioral
 
