@@ -21,7 +21,10 @@ You could find out about all of them here, in this repository.
     * [Composite](https://github.com/andrewtobilko/patterns/tree/master/src/com/github/tobilko/structural/composite/
                        "Decorator") [[class diagram](http://i.stack.imgur.com/z5hCt.png)] - to allow presenting a group of an object as a single object without a difference of usage
     * [Bridge](https://github.com/andrewtobilko/patterns/tree/master/src/com/github/tobilko/structural/bridge/
-                       "Bridge") [[class diagram](http://i.stack.imgur.com/K5dDB.png)] - to separate an implementation from an abstraction  
+                       "Bridge") [[class diagram](http://i.stack.imgur.com/K5dDB.png)] - to separate an implementation from an abstraction
+    * [Flyweight](https://github.com/andrewtobilko/patterns/tree/master/src/com/github/tobilko/structural/flyweight/
+                       "Flyweight") [[class diagram](http://i.stack.imgur.com/gT4mc.png)] - to allow to reduce memory costs using already created objects
+                       
 * Behavioral
     * [Template method](https://github.com/andrewtobilko/patterns/tree/master/src/com/github/tobilko/behavioral/templatemethod/
                         "Template method") [[class diagram](http://i.stack.imgur.com/Z7TIe.png)] <the description>

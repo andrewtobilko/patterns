@@ -30,7 +30,7 @@ public class Client {
         Client client = new Client();
 
         Client.Element firstElement = client.new Element(client.new FirstApiImplementation());
-        Client.Element secondElement = client.new Element(client.new FirstApiImplementation());
+        Client.Element secondElement = client.new Element(client.new SecondApiImplementation());
 
         firstElement.realize();
         secondElement.realize();
