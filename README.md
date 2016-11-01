@@ -24,6 +24,8 @@ You could find out about all of them here, in this repository.
                        "Bridge") [[class diagram](http://i.stack.imgur.com/K5dDB.png)] - to separate an implementation from an abstraction
     * [Flyweight](https://github.com/andrewtobilko/patterns/tree/master/src/com/github/tobilko/structural/flyweight/
                        "Flyweight") [[class diagram](http://i.stack.imgur.com/gT4mc.png)] - to allow to reduce memory costs using already created objects
+    * [Proxy](https://github.com/andrewtobilko/patterns/tree/master/src/com/github/tobilko/structural/proxy/
+                       "Proxy") [[class diagram](http://i.imgur.com/UAgxRJA.png?1)] - to control an access to the origin resource                   
                        
 * Behavioral
     * [Template method](https://github.com/andrewtobilko/patterns/tree/master/src/com/github/tobilko/behavioral/templatemethod/
